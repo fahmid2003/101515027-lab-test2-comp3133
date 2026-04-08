@@ -1,0 +1,3 @@
+.navbar { background: #740001 !important; color: #f0c040 !important; }
+.spacer { flex: 1 1 auto; }
+.active-link { background: rgba(255,255,255,0.15); border-radius: 4px; }
